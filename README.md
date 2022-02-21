@@ -1,6 +1,6 @@
 # Multithreaded-LUDO
 co-creator: github.com/1shoaibazhar
-It is a multi-threaded based LUDO game created by using the concept of detachable threads in Operating Systems.
+It is a multi-threaded LUDO game created by using the concept of detachable threads in Operating Systems.
 Threads are running in parallel in
 multithreading; they can be detached or joined with the parent thread depending on
 relieving resources. This concept is used to run main thread, master controlling
